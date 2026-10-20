@@ -1,0 +1,50 @@
+[
+  {
+    "file": "10-bodice-transparent.png",
+    "transparent_corner": 0,
+    "transparent_fraction": 0.49941133242299646,
+    "opaque_fraction": 0.0008029018895847796
+  },
+  {
+    "file": "11-sleeves-transparent.png",
+    "transparent_corner": 0,
+    "transparent_fraction": 0.46770910413186156,
+    "opaque_fraction": 0.0008156160921118545
+  },
+  {
+    "file": "12-collar-transparent.png",
+    "transparent_corner": 0,
+    "transparent_fraction": 0.46428516939132025,
+    "opaque_fraction": 0.0010451074477255563
+  },
+  {
+    "file": "13-ruff-transparent.png",
+    "transparent_corner": 0,
+    "transparent_fraction": 0.4979580990741518,
+    "opaque_fraction": 0.0011989492983031625
+  },
+  {
+    "file": "14-cravat-only-transparent.png",
+    "transparent_corner": 0,
+    "transparent_fraction": 0.5076704783845842,
+    "opaque_fraction": 0.0009866221161010118
+  },
+  {
+    "file": "14-cravat-transparent.png",
+    "transparent_corner": 0,
+    "transparent_fraction": 0.5074988366504688,
+    "opaque_fraction": 0.0006007460694042887
+  },
+  {
+    "file": "15-bow-transparent.png",
+    "transparent_corner": 0,
+    "transparent_fraction": 0.5060049178535375,
+    "opaque_fraction": 0.0008372302364078818
+  },
+  {
+    "file": "16-jabot-transparent.png",
+    "transparent_corner": 0,
+    "transparent_fraction": 0.47700954328041684,
+    "opaque_fraction": 0.0009001655389169025
+  }
+]

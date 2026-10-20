@@ -1,0 +1,1172 @@
+[
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\hair_base_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "10 后发 基础体面"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\10 后发 基础体面_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 7
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 7
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 6
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 6
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\hair_finish_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "10 后发 集中完善"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\10 后发 集中完善_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 9
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 9
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 8
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 8
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\skin_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "20 肤色体面"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\20 肤色体面_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 11
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 11
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 10
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 10
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\eyes_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "21 双眼"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\21 双眼_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 13
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 13
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 12
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 12
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\sleeves_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "30 远袖"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\30 远袖_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 15
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 15
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 14
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 14
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\sleeves_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "30 近袖"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\30 近袖_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 17
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 17
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 16
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 16
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\bodice_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "30 红黑衣身"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\30 红黑衣身_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 19
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 19
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 18
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 18
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\stand_collar_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "30 黑金立领"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\30 黑金立领_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 21
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 21
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 20
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 20
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\neck_ruff_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "30 白颈褶红束带"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\30 白颈褶红束带_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 23
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 23
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 22
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 22
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\jabot_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "30 白褶襟"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\30 白褶襟_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 25
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 25
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 24
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 24
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\cravat_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "30 灰领巾"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\30 灰领巾_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 27
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 27
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 26
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 26
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\bow_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "30 黑蝴蝶结"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\30 黑蝴蝶结_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 29
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 29
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 28
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 28
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\hair_base_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "40 中发 基础体面"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\40 中发 基础体面_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 31
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 31
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 30
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 30
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\hair_finish_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "40 中发 集中完善"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\40 中发 集中完善_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 33
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 33
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 32
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 32
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\hair_base_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "50 前发 基础体面"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\50 前发 基础体面_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 35
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 35
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 34
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 34
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\hair_finish_registered.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": true,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "50 前发 集中完善"
+    }
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\50 前发 集中完善_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 37
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 37
+    }
+  ],
+  [
+    "layer.select",
+    {
+      "layer": 36
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {
+      "layer": 36
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\60 后发主次_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 37
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 37
+    }
+  ],
+  [
+    "layer.newFillLayer.solidColor",
+    {
+      "color": "#50334F"
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "60 后发主次",
+      "opacity": 0.17
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "file.placeEmbedded",
+    {
+      "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\assembly-assets\\61 发梢统一_mask.png",
+      "scale": 100,
+      "fit": false,
+      "smartObject": false,
+      "center": [
+        512,
+        640
+      ]
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "TEMP_MASK"
+    }
+  ],
+  [
+    "select.loadSelection",
+    {
+      "channel": "transparency",
+      "layer": 38
+    }
+  ],
+  [
+    "layer.delete",
+    {
+      "layer": 38
+    }
+  ],
+  [
+    "layer.newFillLayer.solidColor",
+    {
+      "color": "#B38AA8"
+    }
+  ],
+  [
+    "layer.setProps",
+    {
+      "name": "61 发梢统一",
+      "opacity": 0.18
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ]
+]

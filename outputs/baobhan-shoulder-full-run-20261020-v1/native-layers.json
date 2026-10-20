@@ -1,0 +1,688 @@
+{
+  "activeLayer": 43,
+  "channels": {
+    "alpha": [],
+    "colors": [
+      {
+        "name": "Red",
+        "visible": true
+      },
+      {
+        "name": "Green",
+        "visible": true
+      },
+      {
+        "name": "Blue",
+        "visible": true
+      }
+    ],
+    "composite": "RGB",
+    "compositeVisible": true,
+    "layerMaskView": null,
+    "quickMask": null,
+    "target": {
+      "kind": "composite"
+    }
+  },
+  "depth": 8,
+  "file": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\巴万希_肩像_完整制作_v1.psd",
+  "hasSelection": false,
+  "height": 1280,
+  "isolatedLayers": [],
+  "lastAppliedComp": null,
+  "layerComps": [],
+  "layerMaskView": null,
+  "layers": [
+    {
+      "blend": "Normal",
+      "bounds": null,
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 43,
+      "kind": "Fill",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "61 发梢统一",
+      "opacity": 0.18039216101169586,
+      "selected": true,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": null,
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 42,
+      "kind": "Fill",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "60 后发主次",
+      "opacity": 0.16862745583057404,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            1,
+            17,
+            1023,
+            1263
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 40,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "50 前发 集中完善",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "f7b4c08c-fa94-15cf-c7ee-5877fa8a06f8"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            0,
+            21,
+            1024,
+            1259
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 38,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "50 前发 基础体面",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "c993b500-b4ea-5341-d6bc-f344e289bf3b"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "id": 41,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "50 前发",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            1,
+            17,
+            1023,
+            1263
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 35,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "40 中发 集中完善",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "9cbe5aa7-048f-52f2-a718-f54567d7ef2d"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            0,
+            21,
+            1024,
+            1259
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 33,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "40 中发 基础体面",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "09825225-f2c3-7480-3cc5-7a6d56a12315"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "id": 36,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "40 中发",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            40,
+            285,
+            909,
+            928
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 30,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "30 黑蝴蝶结",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "bf00a294-2290-f85e-4def-18e5a340a747"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            148,
+            370,
+            704,
+            834
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 28,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "30 灰领巾",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "71a86e14-fddf-7bc3-ce77-e1ff6d9e752c"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            0,
+            53,
+            987,
+            1227
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 26,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "30 白褶襟",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "40f78198-ba2e-25b9-93dd-00a931dfc06f"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            61,
+            342,
+            902,
+            814
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 24,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "30 白颈褶红束带",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "6c3300c5-e0ce-c7c4-0290-dfe14cd4ef88"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            15,
+            51,
+            988,
+            1213
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 22,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "30 黑金立领",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "8186a28f-c710-e5f7-c260-fd0ac027d599"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            0,
+            16,
+            1023,
+            1264
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 20,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "30 红黑衣身",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "a3a578f2-d9a0-b92e-de9c-b273ac2fe7d5"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1,
+            51,
+            1023,
+            1229
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 18,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "30 近袖",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "b9374477-e682-a173-3a11-9d08c8d4fea6"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            1,
+            51,
+            1023,
+            1229
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 16,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "30 远袖",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "0436b804-511e-0c6d-00f0-65775ae7c8a5"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "id": 31,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "30 服装组件",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        18,
+        25,
+        1006,
+        1255
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 14,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "21 双眼",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "2b0cd4cc-af8d-a558-7e01-e3b090269180"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        15,
+        102,
+        1009,
+        1178
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 12,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "20 肤色体面",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "3a492934-b837-5420-cad3-167cf0efad25"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Pass Through",
+      "bounds": null,
+      "children": [
+        {
+          "blend": "Normal",
+          "bounds": [
+            1,
+            17,
+            1023,
+            1263
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 9,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "10 后发 集中完善",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "6696fbd2-e5ad-4de0-19d6-609bf1249858"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        },
+        {
+          "blend": "Normal",
+          "bounds": [
+            0,
+            21,
+            1024,
+            1259
+          ],
+          "clipped": false,
+          "fill": 1.0,
+          "hasMask": true,
+          "hasVectorMask": false,
+          "id": 7,
+          "kind": "Smart Object",
+          "labelColor": "none",
+          "linkGroup": null,
+          "name": "10 后发 基础体面",
+          "opacity": 1.0,
+          "selected": false,
+          "smartFilters": [],
+          "smartFiltersEnabled": true,
+          "smartSource": {
+            "kind": "linked",
+            "path": "70de53c5-b750-0a6e-d0e5-e51a933666ba"
+          },
+          "vectorMaskEnabled": null,
+          "visible": true
+        }
+      ],
+      "clipped": false,
+      "expanded": true,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "id": 10,
+      "kind": "Group",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "10 后发",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        65,
+        1024,
+        1215
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 5,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "01 完整人体原素体_无发无衣_冻结",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "7db0f9c8-601d-4316-accf-3e241177eb75"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": null,
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 3,
+      "kind": "Fill",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "00 可选浅灰背景",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": false
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "id": 2,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "Layer 1",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    }
+  ],
+  "measurement": {
+    "count": 0,
+    "countGroups": 0,
+    "ruler": null,
+    "scale": "1 pixels = 1.0000 pixels"
+  },
+  "mode": "Rgb",
+  "name": "巴万希_肩像_完整制作_v1.psd",
+  "notes": [],
+  "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\巴万希_肩像_完整制作_v1.psd",
+  "quickMask": false,
+  "resolution": 72.0,
+  "selectedLayers": [
+    43
+  ],
+  "selectionBounds": null,
+  "snapshots": [],
+  "symmetry": null,
+  "timeline": null,
+  "variables": null,
+  "warnings": [],
+  "width": 1024
+}

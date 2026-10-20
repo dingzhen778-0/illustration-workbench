@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+work/full-run-20261020/
+*.log
+.DS_Store
+Thumbs.db

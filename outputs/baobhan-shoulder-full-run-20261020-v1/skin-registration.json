@@ -1,0 +1,21 @@
+{
+  "input": "C:\\Users\\\u4e01\u771f\\Documents\\Codex\\2026-10-16\\referenced-chatgpt-conversation-this-is-an\\outputs\\baobhan-shoulder-full-run-20261020-v1\\20-skin.png",
+  "raw_size": [
+    1122,
+    1402
+  ],
+  "matrix": [
+    [
+      0.9993888660000918,
+      0.0010981524804544193,
+      -0.6699129907573828
+    ],
+    [
+      -0.0010981524804544193,
+      0.9993888660000918,
+      1.0853423507476767
+    ]
+  ],
+  "inliers": 67,
+  "median_residual_px": 0.6452136635780334
+}

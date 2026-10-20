@@ -1,0 +1,94 @@
+{
+  "tool": "built-in image_gen",
+  "generated_sources": [
+    {
+      "id": "10-bodice-transparent",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/10-bodice-transparent.png",
+      "input": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/10-bodice.png",
+      "prompt": "Use case: background-extraction. Edit the provided single-component source branch. Remove ONLY the pale gray/lavender exterior background and any bottom background strip to genuine alpha transparency. Keep the entire gray bald mannequin and its ONE existing clothing component opaque and unchanged, same exact pose, face, ears, neck, shoulders, linework, canvas framing and component shape. Gray skin is part of the mannequin and must be retained. For this bodice component branch, remove the accidental white central ruffled jabot and replace it with continuous crimson bodice fabric; keep black side insets. The white jabot will be a separate dependent component. Output a single transparent PNG, no checkerboard drawn into RGB, no shadow or backdrop, no text."
+    },
+    {
+      "id": "11-sleeves-transparent",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/11-sleeves-transparent.png",
+      "input": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/11-sleeves.png",
+      "prompt": "Use case: background-extraction. Edit the provided single-component source branch. Remove ONLY the pale gray/lavender exterior background and any bottom background strip to genuine alpha transparency. Keep the entire gray bald mannequin and its ONE existing clothing component opaque and unchanged, same exact pose, face, ears, neck, shoulders, linework, canvas framing and component shape. Gray skin is part of the mannequin and must be retained. Output a single transparent PNG, no checkerboard drawn into RGB, no shadow or backdrop, no text."
+    },
+    {
+      "id": "12-collar-transparent",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/12-collar-transparent.png",
+      "input": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/12-collar.png",
+      "prompt": "Use case: background-extraction. Edit the provided single-component source branch. Remove ONLY the pale gray/lavender exterior background and any bottom background strip to genuine alpha transparency. Keep the entire gray bald mannequin and its ONE existing clothing component opaque and unchanged, same exact pose, face, ears, neck, shoulders, linework, canvas framing and component shape. Gray skin is part of the mannequin and must be retained. Output a single transparent PNG, no checkerboard drawn into RGB, no shadow or backdrop, no text."
+    },
+    {
+      "id": "13-ruff-transparent",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/13-ruff-transparent.png",
+      "input": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/13-ruff.png",
+      "prompt": "Use case: background-extraction. Edit the provided single-component source branch. Remove ONLY the pale gray/lavender exterior background and any bottom background strip to genuine alpha transparency. Keep the entire gray bald mannequin and its ONE existing clothing component opaque and unchanged, same exact pose, face, ears, neck, shoulders, linework, canvas framing and component shape. Gray skin is part of the mannequin and must be retained. Output a single transparent PNG, no checkerboard drawn into RGB, no shadow or backdrop, no text."
+    },
+    {
+      "id": "14-cravat-only",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/14-cravat-only-transparent.png",
+      "input": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/14-cravat-transparent.png",
+      "prompt": "Use case: precise-object-edit. This is a single-accessory technical costume study on an opaque gray sculptural display mannequin. Remove the BLACK RIBBON BOW entirely: both black loops, center knot and both long black tails. Reconstruct the gray-violet pleated cravat fabric behind those removed ribbons, preserving the compact short gray cravat and its tiny gold ornament. The ONLY colored garment should be the small GRAY-VIOLET CRAVAT. Keep all mannequin geometry, face, neutral gray shading, camera, framing and transparent background unchanged. Original-size cravat, clean large folded fabric planes, no extra accessories, no text."
+    },
+    {
+      "id": "15-bow-transparent",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/15-bow-transparent.png",
+      "refs": [
+        "${PROJECT_ROOT}/outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/bow_edit.png",
+        "${PROJECT_ROOT}/outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/官设_领结领巾.png"
+      ],
+      "prompt": "Technical costume illustration. Image 1 is the editing target: an opaque GRAY SCULPTURAL DISPLAY MANNEQUIN with simple garment guide, a fashion dress form. Preserve its existing gray sculpture, exact camera, outline, pointed ears, face construction, neck and shoulder geometry. Image 2 is clothing reference for the accessory. A compact black satin ribbon bow at marked location: two loops, tied central knot, two downward tails, perspective follows slanted neck. It is a single garment accessory study. Render only that accessory over its guide with crisp anime cel shading. Keep all other display mannequin surfaces exactly neutral gray. Transparent empty background outside the mannequin and accessory. No other accessories, no hair, no text. One full-frame image."
+    },
+    {
+      "id": "16-jabot-transparent",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/16-jabot-transparent.png",
+      "input": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/10-bodice-transparent.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is sole editing target: gray bald mannequin wearing ONLY the red-black bodice; preserve exact anatomy, tilted three-quarter pose, face, ears and complete bodice geometry. Image 2 is official Baobhan Sith first ascension neck/chest costume reference. Add ONLY an ivory-white vertical pleated JABOT/front frill down center of red bodice, extending from base of throat toward lower canvas, attached naturally over bodice center. Narrow elegant vertical folds, ruffled side edges, clear large folds, subtle cool blue-gray fabric shadows, opaque ivory cloth. Keep it within central chest, preserve side black/red bodice panels and bare shoulders. Gray mannequin stays gray, no hair, no collar/neck ruff/cravat/bow added. Preserve genuine transparent background around mannequin and clothing. Clean polished anime cel illustration, soft upper-left light, one image, no text."
+    },
+    {
+      "id": "04-hair-base",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/04-hair-base.png",
+      "input": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/头发_三组模板组装.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is sole edit target: fixed gray sculptural mannequin with assembled front/middle/rear SOLID COLOR hair geometry. Image 2 is Baobhan Sith's hair design/color reference only. Render the whole hair coherently into CLEAN LOW-DETAIL ANIME BASE: crisp clean line art, continuous broad crimson-pink locks, limited purple inner shadow planes, simple light and dark masses, soft upper-left light. Use all three groups as one hairstyle, maintain paired raised crown locks, central blunt bangs, long temple locks and slender back-hair volume; connect tiny template gaps naturally. Keep the mannequin head pose, face, gray skin, eyes placeholders, pointed ears, shoulders and framing exactly. Hair occupies the established template silhouette, leave thin outer margin within canvas. This stage uses basic planes only, no sparkling highlights, no fine hair texture. Actual transparent background. No costume, no text, one portrait."
+    },
+    {
+      "id": "05-hair-finish",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/05-hair-finish.png",
+      "refs": [
+        "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/04-hair-base.png",
+        "${PROJECT_ROOT}/outputs/baobhan-profile-study/01_character_research/references/user-head-primary.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Image 1 is sole edit target, Baobhan Sith whole-hair base on gray mannequin. Image 2 is hair rendering reference only. Finish ONLY the existing hair as one coherent polished anime hairstyle. Preserve current silhouette, major locks and mannequin anatomy/pose. Organize continuous broad crimson locks with rich restrained violet inner shadow planes, muted dusty rose-lilac color toward tips. Replace broad flat pink glare patches on crown/bangs with a narrower curved pink highlight arc that follows the head curvature, broken naturally by major lock boundaries with unequal widths; sparse high-value accents. Side-lock highlights follow length and taper at turns. Back hair slightly quieter and darker than foreground locks. Clean beautiful line art and smooth restrained gradients, no scratchy microstrands. Preserve gray face/ears/neck/shoulders and eyes placeholders exactly; transparent background. No clothing, no text."
+    },
+    {
+      "id": "20-skin",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/20-skin.png",
+      "refs": [
+        "${PROJECT_ROOT}/outputs/baobhan-shoulder-restart-v1/foundation/人体素体_干净透明底.png",
+        "${PROJECT_ROOT}/outputs/baobhan-profile-study/01_character_research/references/user-head-primary.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Image 1 is sole edit target, a neutral gray sculptural mannequin used as the fixed foundation for an anime character portrait. Image 2 is Baobhan Sith face color and rendering reference. Color the existing mannequin surfaces with pale cool ivory tones and subtle muted pink warmth at cheeks and ears; clean broad anime cel-shaded planes with soft upper-left illumination and muted violet shadows on neck. Preserve the exact head tilt, camera, anatomical outline, nose, small confident smile, long pointed ears and shoulder contour. Keep both eyes as simple light-gray placeholders with existing eyelid guides, ready for a separate eye-painting stage. Keep the existing bald silhouette and no accessories or garments. Transparent outside background, one technical portrait study with restrained clean line art, no text."
+    },
+    {
+      "id": "21-eyes",
+      "path": "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/21-eyes.png",
+      "refs": [
+        "${PROJECT_ROOT}/outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/skin_registered.png",
+        "${PROJECT_ROOT}/outputs/baobhan-profile-study/01_character_research/references/user-head-primary.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Image 1 is sole edit target: the colored face foundation for a Baobhan Sith anime portrait. Image 2 is eye identity reference only. Paint BOTH EYES together inside the existing eyelid guides: elegant gray-blue irises, small dark pupils, restrained tiny white catchlights, clear cool ivory sclera, confident half-lidded slightly teasing gaze. Both eyes look toward viewer with the existing tilted three-quarter head perspective; near eye slightly larger, no mirroring. Preserve the existing eye opening positions and clean dark upper eyelids. Preserve all skin color, face shape, nose, mouth, ears, bald head, neck, shoulders and canvas exactly. Focus detail only on eyes; keep linework crisp and legible at portrait size with limited lashes. Genuine transparent background retained. Single portrait, no hair or garments added, no text."
+    }
+  ],
+  "templates": {
+    "front": "Use case: precise-object-edit. Produce the FRONT HAIR flat-color geometry template for Baobhan Sith's shoulder portrait. Image 1 is the sole edit target: frozen bald gray shoulder mannequin, preserve exactly its tilted three-quarter face, pointed ears, neck, shoulder pose and framing, 1024x1280 portrait. Image 2 is hair design reference only. Add only the front crown and bangs group, including paired raised crown locks with dark-purple inner faces and the central broad blunt bangs. Adapt bangs to the mannequin's tilted head and three-quarter perspective. Simple clean solid crimson-pink flat shapes and thin clean outlines, no highlights, no gradient, no detailed texture. Keep gray mannequin visible and intact, keep eyes placeholders. No side long locks, no back hair, no clothing. Actual transparent exterior background. One image, no panels, no text.",
+    "middle": "Use case: precise-object-edit. Image 1 is sole editing target: bald gray mannequin shoulder portrait. Preserve its exact head angle, face, pointed ears, neck, shoulders, gray construction and framing. Image 2 provides Baobhan Sith hair design only. Add ONLY the paired middle/side hair group: two long wide crimson-pink locks originating at temple sides and flowing beside the cheeks down to lower chest frame, modest outward curled tips. Both sides jointly designed in current tilted three-quarter perspective. Keep entire bald crown visible, no bangs or rear hair. Clean FLAT solid crimson-pink shape with thin outline and a limited flat dark-purple inner plane, no highlights/gradient/fine hair texture. Gray mannequin remains visible and uncolored. Transparent outer background. One portrait only no text.",
+    "rear": "Use case: precise-object-edit. Image 1 is sole edit target: the original bald gray shoulder mannequin, exact tilted three-quarter camera and original anatomy. Image 2 is Baobhan Sith hair identity reference. Draw ONLY BACK HAIR behind the head, pointed ears, neck and shoulders. The unchanged original gray head, ears, neck, and chest visibly OCCLUDE the rear hair. Rear mass grows from back of skull and nape, as long controlled broad crimson-pink locks visible outside the head and shoulders, gently tapered with just a few curved tips. Keep volume close to skull, silhouette slender and cohesive. Current FRONT THREE-QUARTER view of mannequin remains; all crown, forehead and face gray and exposed. Solid flat crimson-pink geometry with few dark purple inner planes, clean outline, no highlights, no gradients, no fine strands. No bangs or cheek-front curls, no garments, no panels or text. Preserve transparent background."
+  },
+  "failed_attempts": [
+    {
+      "component": "14-cravat",
+      "error": "image generation output moderation rejected; neutral costume/mannequin prompt retried successfully"
+    }
+  ]
+}

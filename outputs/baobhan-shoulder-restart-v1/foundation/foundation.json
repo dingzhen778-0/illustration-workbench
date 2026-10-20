@@ -1,0 +1,71 @@
+{
+  "canvas": [
+    1024,
+    1280
+  ],
+  "raw_size": [
+    1122,
+    1402
+  ],
+  "anchors": {
+    "crown": [
+      495,
+      106
+    ],
+    "chin": [
+      466,
+      791
+    ],
+    "near_ear_tip": [
+      781,
+      405
+    ],
+    "far_ear_tip": [
+      205,
+      515
+    ],
+    "near_eye_outer": [
+      627,
+      453
+    ],
+    "far_eye_outer": [
+      250,
+      530
+    ],
+    "nose": [
+      410,
+      599
+    ],
+    "mouth": [
+      452,
+      668
+    ],
+    "left_shoulder": [
+      65,
+      988
+    ],
+    "right_shoulder": [
+      948,
+      991
+    ],
+    "sternal_notch": [
+      512,
+      1047
+    ]
+  },
+  "anchor_basis": "agent manually estimated visible landmarks, not automatic anatomy certification",
+  "head_height_proxy_px": 685,
+  "external_marker_spacing_px": 128,
+  "light": "upper-left soft key",
+  "has_hair": false,
+  "has_clothes": false,
+  "has_accessories": false,
+  "eye_stage": "position outlines only, no pupils/irises",
+  "complete_head_neck_shoulders": true,
+  "pure_base_sha256": "05fa078cfa880776e6d43edc426981f7eb0ff53af4a7d89d0d75c87cfa20ce2a",
+  "raw_sha256": "211e5140b5979551f2b8ee450fff426441fcae142c872651bd8eea2df0ab1476",
+  "guides_off_diff_px": 0,
+  "alpha_cleanup": "native mask keeps connected gray anatomical object; original RGBA remains intact",
+  "visual_review": "agent_passed_foundation_only",
+  "user_acceptance": "pending"
+}
