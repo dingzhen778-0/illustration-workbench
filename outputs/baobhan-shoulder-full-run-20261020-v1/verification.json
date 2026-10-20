@@ -1,0 +1,27 @@
+{
+  "canvas": [
+    1024,
+    1280
+  ],
+  "grouping_diff_px": 0,
+  "all_drawing_off_restore_foundation_diff_px": 0,
+  "native_off_restore_pretone_diff_px": 0,
+  "eye_outside_mask_diff_px": 0,
+  "psd_reopen_diff_px": 0,
+  "smart_objects": 17,
+  "native_masks": 20,
+  "layer_count_including_groups": 25,
+  "clothing_components": 7,
+  "clothing_control_layers": 8,
+  "hair_stages": [
+    "three native solid-color templates",
+    "whole-hair base",
+    "whole-hair finish"
+  ],
+  "face_stages": [
+    "skin planes",
+    "eyes on registered skin"
+  ],
+  "user_acceptance": "awaiting",
+  "lighting": "generated lighting merged inside sources, plus two native color/focus controls"
+}

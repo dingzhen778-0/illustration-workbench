@@ -1,0 +1,972 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 55,
+    "sha256": "d0d7ab9355956e0d9cb93408967f54d05facb86627487e1acf950cf2bef0d950"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 134,
+    "sha256": "8707eb20255cd78023b3ba60ba8b4985be243aba1bb3d347be54a6a260a81bfd"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 1631,
+    "sha256": "9735e601f6bd21ee027524b20be942843f94354ebee15d3d8ed2e586606d073b"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2357,
+    "sha256": "0528950c335844d24eb70228009496c89d567f13927daad562cc39fc3797c375"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 30,
+    "sha256": "97d159204e0b21a4a15f3f1ea01a96af403028d07858f1762866e84a065c4042"
+  },
+  {
+    "path": "docs/harness-design.md",
+    "bytes": 1088,
+    "sha256": "c2e8297d62380614f8bfac020c07351f0e559fe1e9f92a6838211c8c8dd8a8ae"
+  },
+  {
+    "path": "work/full_run_20261020.py",
+    "bytes": 16534,
+    "sha256": "f393f2cdc2bd9f869f8abed48ff0cea2bec363103eafdfe77c8fa292e3c97235"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/01-front-template.png",
+    "bytes": 1116844,
+    "sha256": "107bccb4674751c0b072acb4cf44cd6f2f38bdd6c7dff821ae27a4c74a93a084"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/02-middle-template.png",
+    "bytes": 1335032,
+    "sha256": "9f7d36f133eeb0698bdefd8305b1251962e9c18cac25b9c2e79aebd82385f89a"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/03-rear-template.png",
+    "bytes": 1385017,
+    "sha256": "9d11d6c266e46acf30885d6dd213b852dd61c04248e5b9ae868232ad1e09d4d3"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/04-hair-base.png",
+    "bytes": 1597875,
+    "sha256": "3e8b3f11923f486de159aa2608c4f38b372620973d823081a44ce467ce6e34bb"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/05-hair-finish.png",
+    "bytes": 1779992,
+    "sha256": "c8c6eeca5879436914a3ee6ef6de61c121670ea412c60b4008a447c797304ce0"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/10-bodice-transparent.png",
+    "bytes": 1018273,
+    "sha256": "9bd553535dc5ce334ef4f2d89f0c7465b3c12c9230e270d3aeef56a2d6f21519"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/10-bodice.png",
+    "bytes": 1429681,
+    "sha256": "5ceea73c479652bc9153ce5a662f2b24d51f657ba5a7f1a953c2e41e96c57e7f"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/11-sleeves-transparent.png",
+    "bytes": 1122998,
+    "sha256": "6548785cc605c232367a650b31fe25cab8d8a67485844850bc3c669b27f357a0"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/11-sleeves.png",
+    "bytes": 1435916,
+    "sha256": "60f0956eadca24aceb5ac5b57c267fa667710955305b1d095bf760edf6c8cdbf"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/12-collar-transparent.png",
+    "bytes": 1140741,
+    "sha256": "f21991f2d0edf5734c7baf86de8f5506e8ee5e12bd93b2ab086226ae98ce5e80"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/12-collar.png",
+    "bytes": 1431932,
+    "sha256": "8aced9801dcbf2d85f0fa79b21227e057b9e0c083a74b4f9202e8edbcc4d34d1"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/13-ruff-transparent.png",
+    "bytes": 1109216,
+    "sha256": "7e4ed821b60c1b8a85d9a49a73586c237a49838c934473d71f3a773a3959e2bc"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/13-ruff.png",
+    "bytes": 1455631,
+    "sha256": "d79f72e7eef8468f21e4e5de2b9c3aedc0fce98b41e410db1bb3492f735f46a2"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/14-cravat-only-transparent.png",
+    "bytes": 1087838,
+    "sha256": "0936ef0b6d010688bf4e9252d464de6cb6b2d703c694ccbf81be43e2ed61ea74"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/14-cravat-transparent.png",
+    "bytes": 1071869,
+    "sha256": "193e9f7b55098d055729e26c049dba6e4c552421803223d69aa7d679b83bd4c9"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/15-bow-transparent.png",
+    "bytes": 980150,
+    "sha256": "5ffdc1c59bd4f63f62b63a964aa799c518ca2e8304eb261fcb9dd092d9de59d3"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/16-jabot-transparent.png",
+    "bytes": 1126167,
+    "sha256": "69e05cd322670ffb706f42a08fe29b97ade0908da222e5c0eb35b2e1a2e73bd4"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/20-skin.png",
+    "bytes": 1053318,
+    "sha256": "1346159948e0360edd40d4fb702984b70fa2c376d7c0ae6c2be7ee66383e2c56"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/21-eyes.png",
+    "bytes": 1071392,
+    "sha256": "b4cea76b2e94e97f9f077abc451ac16ea95e39bb85b4273d0edb658e3080fc33"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/actual-inputs.json",
+    "bytes": 14838,
+    "sha256": "25b4c61f7dc82c1fdad44403736d3b2ddf798f9bbbe130e091b498d26bd1d327"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/clothing-native-layers.json",
+    "bytes": 7604,
+    "sha256": "09f72c5a2d52cdc882e2aea4b6f3b0939bbff022ce2be4d4a68711a8eb176e3c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/clothing-registration.json",
+    "bytes": 5335,
+    "sha256": "3cbfecb176b0e19ab0c777337db045b5911dbc44450f5db4fc57637d73c89d62"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/control-groups.json",
+    "bytes": 593,
+    "sha256": "cadadcd97a3e0a555670b382f1482a2806d2feb211584db24f634cca67b7efd4"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/final-registration.json",
+    "bytes": 1444,
+    "sha256": "375e8c9b28ff0d3bf4e1f3b9196dcf9165b7a8bdd8e22cf9f1a41bb90b2a70a2"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/hair-template-registration.json",
+    "bytes": 1446,
+    "sha256": "0dba639d4c90ada8d401b949a1df5bad99cd0943e01bb08687105a1a1efe282f"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/native-layers.json",
+    "bytes": 17441,
+    "sha256": "599c87106cc56e23654a866014006064219678d8d266167f92d87ec7d69d5a40"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/native-operations.json",
+    "bytes": 19596,
+    "sha256": "93ae09084a312fb18b1a05345eeb3f2aaf778fa18787641c7916c6221053dd12"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/skin-registration.json",
+    "bytes": 502,
+    "sha256": "28920876f8aa198f2ec88fc1236c0d883092c42907eadc9a0b1973a55bab5294"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/source-alpha-check.json",
+    "bytes": 1431,
+    "sha256": "12692198535c551e4cf5e89411638f8910b59ba282e5315c0c4208462ca4bfdb"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/verification.json",
+    "bytes": 703,
+    "sha256": "9ddac143dd565a85ca9e92c698a925bce48fbfd80cfd93895a679a61b67ecab8"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/制作记录.md",
+    "bytes": 502,
+    "sha256": "1ce416bfd61977ceba47e8f5b0422b48b4d373f389e0c08cf47ef39bd84c474c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/头发_三组模板组装.png",
+    "bytes": 600114,
+    "sha256": "5bcddb66910f5ad53ec64bab20891ac592f6c841b970003f6cd893b391ab7f19"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/头发_三组模板组装.psd",
+    "bytes": 4694975,
+    "sha256": "43a0a0c453f2c5a07af79ae45290166927719be0eb5a71e4517892e119280545"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/巴万希_肩像_完整制作_v1.png",
+    "bytes": 1623485,
+    "sha256": "d90f888cfe154f5ef738efbbd4cfd9e39a332be2f174c53d28c911c39c13c23f"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/巴万希_肩像_完整制作_v1.psd",
+    "bytes": 53169439,
+    "sha256": "0942ddd1c163cdb5b836df42be22454a8b38d6ff3a7d5c62038738aa26a4d8eb"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/服装组件_组装检查.png",
+    "bytes": 957613,
+    "sha256": "b5c826cf470d394a8e3901fb2318e631d527c3e8c26739ce8ac76c1243f890bd"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/服装组件_组装检查.psd",
+    "bytes": 22318152,
+    "sha256": "3f458e7d4bb98a72019e67bfa78200eb01200fd9e7b12b428b7048844fd85ad0"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/核验_PSD重开.png",
+    "bytes": 1623485,
+    "sha256": "d90f888cfe154f5ef738efbbd4cfd9e39a332be2f174c53d28c911c39c13c23f"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/核验_关闭全部绘制.png",
+    "bytes": 753900,
+    "sha256": "05fa078cfa880776e6d43edc426981f7eb0ff53af4a7d89d0d75c87cfa20ce2a"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/核验_关闭原生色光.png",
+    "bytes": 1628040,
+    "sha256": "0df2c662bb0f92f9764dc1d991d9aac66869bb385c105ec7eec1e65099653924"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/核验_关闭双眼.png",
+    "bytes": 1619715,
+    "sha256": "9b3a2282c78b594df4e894d5c2ffd66073efeee7b2c6c2f79f6ea3e97a621cc7"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/细节_胸颈.png",
+    "bytes": 290288,
+    "sha256": "b77a5a71c81bf975df81b1a12ab1657d987f39f45c9d26324ab9e51ce5668eb2"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/细节_脸眼.png",
+    "bytes": 330787,
+    "sha256": "4c76103db28cc3348dd63f7377c35dec6bb3f9acb8fffa14078de1f6dbf511f0"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/肩像_色光微调前.png",
+    "bytes": 1628040,
+    "sha256": "0df2c662bb0f92f9764dc1d991d9aac66869bb385c105ec7eec1e65099653924"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/预览_浅灰底.png",
+    "bytes": 1396008,
+    "sha256": "c7167e4209a0d3ef27348fcc3cbd001195a11c71e4b37aee155b9bd77de50366"
+  },
+  {
+    "path": "outputs/baobhan-foundation-v2/references/atlas-ascension-1-main.png",
+    "bytes": 408376,
+    "sha256": "682ee42ba4357ff38ff81b71d2e5aa6d89a03b8a4dc22a995725d12c1e3d7d0a"
+  },
+  {
+    "path": "outputs/baobhan-profile-study/01_character_research/references/user-head-primary.png",
+    "bytes": 1759815,
+    "sha256": "e2072dcc1f1e1868681b080e66c659df4cb2fa63bbc420ef365960e941374f93"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/00 可选浅灰背景_mask.png",
+    "bytes": 8089,
+    "sha256": "0b50c447d9cdd7356a861ba737f678d712ca83079d62b22a43ec24929dce7635"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/10 后发 基础体面_mask.png",
+    "bytes": 45571,
+    "sha256": "978f5cf4cfba75e232766aacbe5e49a6707881fe7351344956213a7d90de2c21"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/10 后发 集中完善_mask.png",
+    "bytes": 49872,
+    "sha256": "81a1b493f4842a74b5af2f2e4c6b79d2aa9e6b5f18b4cab82bebadcca83f5feb"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/20 肤色体面_mask.png",
+    "bytes": 63195,
+    "sha256": "93d3e9cd7703810f782fcf128ed5a12a28ae6a07d90043046a72d2a31f69f21d"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/21 双眼_mask.png",
+    "bytes": 13639,
+    "sha256": "c13810a070aa9126051e569443b278f0ee0a9ee8a736e602c04de7acf0416d54"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/30 灰领巾_mask.png",
+    "bytes": 11994,
+    "sha256": "b518c326c825ec49872ac8a83f98b1797ad247c1e21860303f91f17f35d9fb5a"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/30 白褶襟_mask.png",
+    "bytes": 17043,
+    "sha256": "8cf84297540ec98e8d810e585281d3890327ca048b55cc1995ad4be16b99472e"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/30 白颈褶红束带_mask.png",
+    "bytes": 17464,
+    "sha256": "eb831d449b6f035eba9d101416c722694885ab176ae22598917041307539dcea"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/30 红黑衣身_mask.png",
+    "bytes": 16431,
+    "sha256": "6b7d879e153d4da2b25c588eb94d90074b7e00d89476965d62730f5d806aae9e"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/30 近袖_mask.png",
+    "bytes": 12685,
+    "sha256": "18be45fc289fc17467dc91a13165d4175ee21ee2ca62c73f2b12c8405fa3bcb7"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/30 远袖_mask.png",
+    "bytes": 12789,
+    "sha256": "c0c61254163d75145f5d21ebd6279ca1ae47a660257524803ccdf3fa8478b072"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/30 黑蝴蝶结_mask.png",
+    "bytes": 14807,
+    "sha256": "750a9a0fdcbcd3357b509150df5a9fd3a431884bde03e3f8408ccbe2a08d9be6"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/30 黑金立领_mask.png",
+    "bytes": 15677,
+    "sha256": "e2967676131ded42b8572347a80114191a2a2e93b796cbe2bce01c0197d99e99"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/40 中发 基础体面_mask.png",
+    "bytes": 40670,
+    "sha256": "3d2b9d0b85a54bc89d855db9a143f306dfa53752ee65173a9a361a9a077be5c8"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/40 中发 集中完善_mask.png",
+    "bytes": 37077,
+    "sha256": "a296a89262f8e04bab287c8c939b360eeb5e320f20bb32d3630af9a935a3dd31"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/50 前发 基础体面_mask.png",
+    "bytes": 28906,
+    "sha256": "a95301902b83e33ee8278e48ef776f41344e2224109c29983db6686cac94da18"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/50 前发 集中完善_mask.png",
+    "bytes": 33244,
+    "sha256": "77efda0d9916cd371b051f4468395497bd74227934541bb514e4fc5024111b72"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/60 后发主次_mask.png",
+    "bytes": 37185,
+    "sha256": "0b3ef87375df65849bd36ebb751f4996ecc1055820f05619040053dcc30c7159"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/61 发梢统一_mask.png",
+    "bytes": 23073,
+    "sha256": "8756508920cf28fc0a8c2e4fbbd130dbd6bfdbed5e6f6b1cad62c909be9dcf3f"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/bodice_mask.png",
+    "bytes": 8427,
+    "sha256": "ce555943dbb9617d5d5864824a234ec55c0008060127dca3422052ead2b859d7"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/bodice_registered.png",
+    "bytes": 809990,
+    "sha256": "63016e5a84ac4b9e88f0710ef781d74ed9df34f6fdf36f165ff0720b1ba87013"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/bow_mask.png",
+    "bytes": 6343,
+    "sha256": "fe8102943be91aceb47c78f31aea397bce1439114727432bff7f20f579b3730d"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/bow_registered.png",
+    "bytes": 580766,
+    "sha256": "a54a3fe9821ca2d289f5697cde47bebe0f23a3dba78509d137fb56637d5ca504"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/cravat_mask.png",
+    "bytes": 4412,
+    "sha256": "2880771a6103cf6c413f8a117d3c72317c36841d655704fff2088bda167daeb6"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/cravat_registered.png",
+    "bytes": 474234,
+    "sha256": "e428b7fdae88a57250791fda3d3ada881252fc45df95186b26203fb08707cc6d"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/eyes_mask.png",
+    "bytes": 5488,
+    "sha256": "9d4d49959bf86048878a782fd6f613484f024585e4544aabfcd5dc8b67600d8a"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/eyes_registered.png",
+    "bytes": 853347,
+    "sha256": "4662cc3b449b403441288d55fd5d23f08fea43df03b5704600baaa5b55cbdec2"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_base_front_mask.png",
+    "bytes": 18080,
+    "sha256": "42666a22c9eed1eb9affd84b5f779a81e564be158e5dd9e412a729abd0744253"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_base_mask.png",
+    "bytes": 58416,
+    "sha256": "0193276267fe487ae2fec710e581f7e80c0074f5edb9b378497fe23336ba1292"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_base_middle_mask.png",
+    "bytes": 28648,
+    "sha256": "3cbf4860d4a128f73c294ff50821769911075a9360c4dff63744bbaa3fb6833b"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_base_rear_mask.png",
+    "bytes": 28779,
+    "sha256": "87908a9fc520643737b7dd957303a5283c89a53a77517681e6f0d535fc9bda7c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_base_registered.png",
+    "bytes": 1374885,
+    "sha256": "0e339b52c6a32e8719202865071a9352042c51576cc4a5b65cfd4413e923f7f4"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_finish_front_mask.png",
+    "bytes": 20817,
+    "sha256": "6effad4593f054eacb109ef44eed8aafe9952204d08b0e978a6305468f8167ab"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_finish_mask.png",
+    "bytes": 61090,
+    "sha256": "a3cc7b0b41b023d086751119813d885025fe5b6fee1316d193d3ad0f14d8ed39"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_finish_middle_mask.png",
+    "bytes": 25991,
+    "sha256": "6dbac55a995385acf9db8f5e04e4cc43c147dbf44d56e2cf6487e7cad3e44cb3"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_finish_rear_mask.png",
+    "bytes": 31970,
+    "sha256": "8f9a4a38ff1be8e3487a8c5d0395d8c6e386ca4d3cae9fc5b552c4fab900ec9a"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_finish_registered.png",
+    "bytes": 1539702,
+    "sha256": "3ac6eceaf9a4807d2c543494a9e981a12e7719bbc50f1c80d09247a8420fd20f"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_front_mask.png",
+    "bytes": 25153,
+    "sha256": "4fe92faea7156928de4e6a7d155a4182dbc6475b19d196aa766b13d55a1ce16c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_front_registered.png",
+    "bytes": 910179,
+    "sha256": "ca4f83df26de8b3bdcebf7516cd870cd2255ee301da5069d429852cc7e818eea"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_middle_mask.png",
+    "bytes": 44972,
+    "sha256": "6b3ebbaa53ddfe0ae18e6d95da4f06c3ec6f470cde543ec439785a91c0824c45"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_middle_registered.png",
+    "bytes": 1138078,
+    "sha256": "3ac3242921497f753b6fa8eb6e13fb5c958b4c7742893c155b488ff360fdeac9"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_rear_mask.png",
+    "bytes": 39950,
+    "sha256": "07f00cdf57af85a474843c1bf9dd2faeb3e368524d57678a36738cbfb88f2068"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/hair_rear_registered.png",
+    "bytes": 1145660,
+    "sha256": "e0be0814b567bef05be00c6cfbeaae1e56a16602d3c1d17e962f5c73b857b336"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/jabot_mask.png",
+    "bytes": 8578,
+    "sha256": "7a49e3583c19bf32a7820429948c63f38e7112106e9ddcd1ddbb3f6965e8c087"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/jabot_registered.png",
+    "bytes": 899097,
+    "sha256": "95df99675298286bd8c037e6882a9222571dc46ebc774e5a02dc19369d97405e"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/neck_ruff_mask.png",
+    "bytes": 8309,
+    "sha256": "cfe3ea588aa1287a4375e80a804bbb3384c44a57fb6eea9d305c8433afa5da14"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/neck_ruff_registered.png",
+    "bytes": 585712,
+    "sha256": "edc04cf27c6485b1d9bbb56c1ad73e0618531887c5218465bb15f96bef5cee7a"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/skin_registered.png",
+    "bytes": 836202,
+    "sha256": "15227693d2f82c8fc6c65204f6512fc940fb1a8c7105f40e3e169a12e504cf20"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/sleeves_mask.png",
+    "bytes": 8985,
+    "sha256": "7b7a935d569a82e2caa3a4be43b972b81b1308d2cd17912562d024f8b8fa098d"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/sleeves_registered.png",
+    "bytes": 891811,
+    "sha256": "5f380336a7a3a3290383d556bb91e58817ae3df76032d56ccebc7dd4a0e7f2b3"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/stand_collar_mask.png",
+    "bytes": 7618,
+    "sha256": "6d78dc0f73c7c2c401cdcb88297ffc8a8b94d2f0c15ed2e90004af495515d693"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/stand_collar_registered.png",
+    "bytes": 861570,
+    "sha256": "2db2e3c1f91ef87af96c3e00301043d57f95836a84d6a685a6804d5cae368804"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/头发内侧 front_mask.png",
+    "bytes": 17688,
+    "sha256": "ae07609058cbe16c9180680807596f0b620e837abf35769b1cf6ca637244b4f5"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/头发内侧 middle_mask.png",
+    "bytes": 19147,
+    "sha256": "c5034060b5f670d547c0e1fd8a0609b95759fe4c4a8265c3b531a8fd00b00130"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/头发内侧 rear_mask.png",
+    "bytes": 23395,
+    "sha256": "3e108fe234cefa0482c87a1396c8676e6a2cd644fc702be766b8440ad6fe9ea9"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/头发模板 front_mask.png",
+    "bytes": 38921,
+    "sha256": "26f4be544b64b7d41e2718f1e6d9e621305c3ccacf86aada1ef26ae0e5f87d75"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/头发模板 middle_mask.png",
+    "bytes": 65654,
+    "sha256": "fd508c4848583b65c92c61c9c26574d2d7185a53b54214ee09c8776aba965015"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/头发模板 rear_mask.png",
+    "bytes": 62163,
+    "sha256": "a618dc28583606d4a2c6995162088601d7f568a6f5ba6d49d2efd84ed1dbd7de"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/服装 灰领巾_mask.png",
+    "bytes": 11994,
+    "sha256": "b518c326c825ec49872ac8a83f98b1797ad247c1e21860303f91f17f35d9fb5a"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/服装 白褶襟_mask.png",
+    "bytes": 17043,
+    "sha256": "8cf84297540ec98e8d810e585281d3890327ca048b55cc1995ad4be16b99472e"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/服装 白颈褶红束带_mask.png",
+    "bytes": 17464,
+    "sha256": "eb831d449b6f035eba9d101416c722694885ab176ae22598917041307539dcea"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/服装 红黑衣身_mask.png",
+    "bytes": 16431,
+    "sha256": "6b7d879e153d4da2b25c588eb94d90074b7e00d89476965d62730f5d806aae9e"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/服装 近袖_mask.png",
+    "bytes": 12685,
+    "sha256": "18be45fc289fc17467dc91a13165d4175ee21ee2ca62c73f2b12c8405fa3bcb7"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/服装 远袖_mask.png",
+    "bytes": 12789,
+    "sha256": "c0c61254163d75145f5d21ebd6279ca1ae47a660257524803ccdf3fa8478b072"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/服装 黑蝴蝶结_mask.png",
+    "bytes": 14807,
+    "sha256": "750a9a0fdcbcd3357b509150df5a9fd3a431884bde03e3f8408ccbe2a08d9be6"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/assembly-assets/服装 黑金立领_mask.png",
+    "bytes": 14919,
+    "sha256": "45f48b607f73f69cdb8e2b1001a0918520e092c86843cde71abf05a71c011f61"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/01-front-template.txt",
+    "bytes": 862,
+    "sha256": "756470df5f809689924481defbb157cfc0e450cbae28983af278ba2f5586614c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/02-middle-template.txt",
+    "bytes": 811,
+    "sha256": "10d2f8e98dd8e07be9d3d234489fe5fbd5aabb3990578a9af7f95f3ae87c80aa"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/03-rear-template.txt",
+    "bytes": 928,
+    "sha256": "c6c1dfe0518fc4804e6484ed47324abfd17d3287dcf614ba32d1cb9336755512"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/04-hair-base.txt",
+    "bytes": 959,
+    "sha256": "cf31bbd401cf6dbb689817df08d790117196b1021e456376e7cb9e95868d538c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/05-hair-finish.txt",
+    "bytes": 957,
+    "sha256": "7ab4a13e8774e44917ef1fd2e2c76812694c1d90a81bb23f670a76ec486c48a9"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/10-bodice-transparent.txt",
+    "bytes": 764,
+    "sha256": "5d35b8243af102bbb04f231a2b5900cd727aa3552dffc958c725b91efe99b1d5"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/10-bodice.txt",
+    "bytes": 847,
+    "sha256": "3c085f66ebfdab78c99598e98c80f0a160d7c29dfaa3504f4d94968e5833815d"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/11-sleeves-transparent.txt",
+    "bytes": 546,
+    "sha256": "e993064e7781d605dbeb43f8d443de43a305b0d31c72e1f1577de7dc9b1f079c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/11-sleeves.txt",
+    "bytes": 894,
+    "sha256": "09dbf078c8f1a37ae59c7bc4fbb2e6a13f8dbe1586e1a35659d4f1f6b2c8ca1e"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/12-collar-transparent.txt",
+    "bytes": 546,
+    "sha256": "e993064e7781d605dbeb43f8d443de43a305b0d31c72e1f1577de7dc9b1f079c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/12-collar.txt",
+    "bytes": 845,
+    "sha256": "236d94d33492e6d90a9303d5e426d61ceb09f6f5284e8ad31009c298d811c38b"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/13-ruff-transparent.txt",
+    "bytes": 546,
+    "sha256": "e993064e7781d605dbeb43f8d443de43a305b0d31c72e1f1577de7dc9b1f079c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/13-ruff.txt",
+    "bytes": 860,
+    "sha256": "215cc6f36ad6e10e11630eaf2800b9c962ac565edd0cdb6b0c70a69baef8a1c0"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/14-cravat-only-fix.txt",
+    "bytes": 638,
+    "sha256": "adfc7c6383561151b535ca113bcc2deb32c222bea6f9341b0c7f74ff6cbd8688"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/14-cravat-transparent-retry.txt",
+    "bytes": 790,
+    "sha256": "1c5967d98a3556fa462e21025ae940e1588eadc2b999ec11191cbd99a8c44dc7"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/14-cravat.txt",
+    "bytes": 920,
+    "sha256": "84a877eda0be1dd8fdfe146a43c5cc894530ba10290dfe22e3852d6378881854"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/15-bow-transparent-retry.txt",
+    "bytes": 769,
+    "sha256": "a3c714c43c2c93259beb89846c700ee6b1cb17e2a0180f331b96c5bc415c017b"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/16-jabot.txt",
+    "bytes": 909,
+    "sha256": "637a62b2d58788b9151b7f06334edb0899db6d2dfb5abcf77fc5bd13101b2c51"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/20-skin.txt",
+    "bytes": 851,
+    "sha256": "c7b1552b99013b324d0384ce285310edae63a9e115b259229b17c7bd61165ec5"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-full-run-20261020-v1/prompts/21-eyes.txt",
+    "bytes": 868,
+    "sha256": "f95b329a1e224035f7430a5877ba00ead8490f016f201263eb5ca69d171071d0"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/foundation/foundation.json",
+    "bytes": 1457,
+    "sha256": "4632d45ecbea04e30c434ada31f88277b20aa7cd9bfaf84cd48c6a321a2cb283"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/foundation/人体素体_干净透明底.png",
+    "bytes": 753900,
+    "sha256": "05fa078cfa880776e6d43edc426981f7eb0ff53af4a7d89d0d75c87cfa20ce2a"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/foundation/巴万希_独立人体素体.psd",
+    "bytes": 4210101,
+    "sha256": "8ee3d9b9bce5951156aee567b1262d446110b1c9aee66db47964c2084a614558"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/bodice_edit.png",
+    "bytes": 555576,
+    "sha256": "431d412c7897e5f29363b11f51276c338a3299d7a99350821a22a0a6a70d15fb"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/bodice_geometry.png",
+    "bytes": 4850,
+    "sha256": "3dffbd830f86d43c74282ca5c1043456aa74a60b99310d6788a46b997b9ff30b"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/bow_edit.png",
+    "bytes": 627517,
+    "sha256": "e36c8ea307fe9d3b20c767c456bcefb1055bb8aeaa35de70ce998591981eef9c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/bow_geometry.png",
+    "bytes": 5852,
+    "sha256": "805d7e1f5a5cb1420e011d9688efd9250d3038314f52142af0ad48f522faf730"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/cravat_edit.png",
+    "bytes": 622615,
+    "sha256": "174b058e42b10e119f63dc2838bcb5684bea2e898964ca0a9c15d07051d56848"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/cravat_geometry.png",
+    "bytes": 3890,
+    "sha256": "c766fb2ddcf61f3c5f0242af53731905f4bf1a6b3c029dec3a7f4b827d24704c"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/jabot_edit.png",
+    "bytes": 594754,
+    "sha256": "82b8833cd8ce894a7155d245181c1d08265b0771a980c1da194e99418331196d"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/jabot_geometry.png",
+    "bytes": 6187,
+    "sha256": "f1985f4e63a3b21418b7a1fd25f85c8fe40eff9b558ed819aabf29309a11fbd1"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/neck_ruff_edit.png",
+    "bytes": 611760,
+    "sha256": "b322bd0e0b9a6fdb146b2c8bce44d4a2dd12dcc981ce11335f5e83c20bcb82fd"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/neck_ruff_geometry.png",
+    "bytes": 5988,
+    "sha256": "b8f5ef4cebe4d313d45c08ce787cca51a417cad1309c0d0c264d629fc03ae780"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/sleeves_edit.png",
+    "bytes": 588695,
+    "sha256": "6c6e0c0ffafbf496456d4e54f0d9b4188c9347a53b8d2edf9e12fc59b2d98b0f"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/sleeves_geometry.png",
+    "bytes": 5129,
+    "sha256": "0b63977bb52850a2b306c7a82a8509c04c78819888f645cfcc3ba552d910dc41"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/stand_collar_edit.png",
+    "bytes": 618211,
+    "sha256": "54db0701cab37dd6044d4e26140357aa7dd1a9d46b73ba2fb666f2590d1d1745"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/stand_collar_geometry.png",
+    "bytes": 7216,
+    "sha256": "2a6e0365e7e945328546d4842d4ce292e497c70f986fde885d76531228024284"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/官设_胸颈服饰.png",
+    "bytes": 483864,
+    "sha256": "3dfcaa5ce2f63b2db2dd8ac8453c787896d1d0c6e44edfec5323ee5218887cbf"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/官设_衣身双袖.png",
+    "bytes": 436335,
+    "sha256": "964a6aece9e9b7f466c02b99f895e5c2f1ead372a688d33bd5041622d7422ef3"
+  },
+  {
+    "path": "outputs/baobhan-shoulder-restart-v1/grouped-hair-component-clothes-v3/inputs/官设_领结领巾.png",
+    "bytes": 293444,
+    "sha256": "0839a22108e6e9fb104f68165b9c307cc4efa707299df7ccfaaea256ff1ad855"
+  },
+  {
+    "path": "skills/anti-defensive-writing/LICENSE",
+    "bytes": 1065,
+    "sha256": "cc3d842a912f0ed1fc80ae8d2ca7ab6cff37756422069424bf2edec554219fc9"
+  },
+  {
+    "path": "skills/anti-defensive-writing/README.md",
+    "bytes": 19586,
+    "sha256": "f79ce1c0c8c779eaf90074063757133f5797f0075ba49eef4bba9ae634f28c66"
+  },
+  {
+    "path": "skills/anti-defensive-writing/README.zh-CN.md",
+    "bytes": 19341,
+    "sha256": "8bc16c34d65927baf33b1e126239294d447ec3e055d10f5a9bc59ed58e89cf5a"
+  },
+  {
+    "path": "skills/anti-defensive-writing/skill.json",
+    "bytes": 1373,
+    "sha256": "f675258ca287c028fd8f5bbe9fb0f905c290d33904c95d550edd85efa4dc5668"
+  },
+  {
+    "path": "skills/anti-defensive-writing/SKILL.md",
+    "bytes": 20353,
+    "sha256": "36c093cb37fefb866d28968a17f561c07e7cb4923991aea1fd7e1f9b49d83a1a"
+  },
+  {
+    "path": "skills/baobhan-sith-workflow/SKILL.md",
+    "bytes": 5757,
+    "sha256": "e2e5b649461a408bb1e1d58766070d3518cd131906577dedc1981af2f90bab4c"
+  },
+  {
+    "path": "skills/character-research-baobhan-sith/LICENSE.baoyu-skills.txt",
+    "bytes": 1064,
+    "sha256": "601839401f6ce68b7a8aec0f7ba247ab8ef0848113378220bec4b2615cc84ee7"
+  },
+  {
+    "path": "skills/character-research-baobhan-sith/SKILL.md",
+    "bytes": 3090,
+    "sha256": "a2440b3be9e00c2b37c87d5a719eebdef4a14c70395591e711724a2b3a3ce291"
+  },
+  {
+    "path": "skills/composition-lineart-baobhan-sith/LICENSE.baoyu-skills.txt",
+    "bytes": 1064,
+    "sha256": "601839401f6ce68b7a8aec0f7ba247ab8ef0848113378220bec4b2615cc84ee7"
+  },
+  {
+    "path": "skills/composition-lineart-baobhan-sith/SKILL.md",
+    "bytes": 4796,
+    "sha256": "a6fa6e6077e8e5b68392841160562cb3fdff4c81926153af72ce2fd13f4ac812"
+  },
+  {
+    "path": "skills/painting-value-lighting/SKILL.md",
+    "bytes": 4270,
+    "sha256": "b226831c14269bc23d6633a8ba767bfec1e893931fef8c1f91be207d9f3eabfb"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/SKILL.md",
+    "bytes": 8679,
+    "sha256": "e290dcf95954c18322c121b1c35d56d1c0e4d3954fadeb51ab315ab739892288"
+  },
+  {
+    "path": "skills/anti-defensive-writing/.github/PULL_REQUEST_TEMPLATE.md",
+    "bytes": 920,
+    "sha256": "e607f5de989786d8280d4db3bc3c0eebcf419ec6317ee8f4a0862c981344f35d"
+  },
+  {
+    "path": "skills/anti-defensive-writing/examples/academic-introduction.md",
+    "bytes": 2353,
+    "sha256": "691de0af328112c449113727c4e8567079039c1d72937c596c02f4969b8b6511"
+  },
+  {
+    "path": "skills/anti-defensive-writing/examples/grant-proposal.md",
+    "bytes": 2371,
+    "sha256": "ac7059603b9698c56eb221b973dfc6b0a72cc2d04469ee98d8413a63740fd285"
+  },
+  {
+    "path": "skills/anti-defensive-writing/examples/methods-and-contributions.md",
+    "bytes": 2346,
+    "sha256": "d4edbd7407e721c9a7ef2445aea3d753db1517319e4d2a9869eeb35ba9fa569c"
+  },
+  {
+    "path": "skills/anti-defensive-writing/tests/test_install.py",
+    "bytes": 4355,
+    "sha256": "d9399ce6c659b86ae9e9f25487ab6354b7b50ae1b17a9151bd4b5d3f6dbf6de5"
+  },
+  {
+    "path": "skills/anti-defensive-writing/skill/anti-defensive-writing/SKILL.md",
+    "bytes": 20353,
+    "sha256": "36c093cb37fefb866d28968a17f561c07e7cb4923991aea1fd7e1f9b49d83a1a"
+  },
+  {
+    "path": "skills/baobhan-sith-workflow/references/handoff.md",
+    "bytes": 4320,
+    "sha256": "3f936d7503360bf12f302a408ee760fcc4187c2f29d65e6c2cfb961614289e0f"
+  },
+  {
+    "path": "skills/baobhan-sith-workflow/references/object-first-workflow.md",
+    "bytes": 5916,
+    "sha256": "74338dd32d4b54def3e08aba4382b139de04b9f5248513d2841664dd33cc3aad"
+  },
+  {
+    "path": "skills/baobhan-sith-workflow/references/tutorial-adapter.md",
+    "bytes": 1940,
+    "sha256": "819e7a1098325fbd834c60c0c453e6add124915313f0d26bd7cc48259a0d16fc"
+  },
+  {
+    "path": "skills/character-research-baobhan-sith/references/upstream-character-template.md",
+    "bytes": 5056,
+    "sha256": "2dc0b6bcacfb62b1772f55824ddb913afe811d9b147b839075d99beb178ddd38"
+  },
+  {
+    "path": "skills/composition-lineart-baobhan-sith/references/upstream-storyboard-template.md",
+    "bytes": 4125,
+    "sha256": "1d66549ac8995003408c232bcab8c2fdd352629559ef9cfa0d1a9dd7d7bebfd5"
+  },
+  {
+    "path": "skills/composition-lineart-baobhan-sith/references/visual-control.md",
+    "bytes": 1916,
+    "sha256": "b4ba456179cc1b5325f2e4b9c16ddf4676df00669b1bc16f6dffab2b7fa45dd4"
+  },
+  {
+    "path": "skills/painting-value-lighting/references/psd-local-colour-case.md",
+    "bytes": 4022,
+    "sha256": "617e9f09d3f6ab90d0c2047f00666eed7c847365c5b1489339ec6517be180ad1"
+  },
+  {
+    "path": "skills/painting-value-lighting/scripts/edit_svg_attribute.py",
+    "bytes": 1470,
+    "sha256": "e5089d164c5dfdc0d6fa3cdafc29cb2d498998c98dfbbf0a31fcbc5c69538af4"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/references/face-eye-sutai.md",
+    "bytes": 3859,
+    "sha256": "e9ef5c4421bd4ca90cfb5a0d8f1ec07e4c2643a97f002ad16313e27cbd24d434"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/references/foundation-conditioned-object.md",
+    "bytes": 3674,
+    "sha256": "6e6da7b9be8bab6eb9bef4e702180cee54833f3a019bc4c657729290151361d7"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/references/frill-fold-repair.md",
+    "bytes": 3100,
+    "sha256": "b0137f64977c310370b615f0f5b6b068aed0e134f7611644b384904afdd9af0a"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/references/geometry-bound-assets.md",
+    "bytes": 2635,
+    "sha256": "eda7390a08ffb27d81e8e74537d13d7b888783d3acc54db19fb9930632710983"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/references/hair-native-shaping.md",
+    "bytes": 10500,
+    "sha256": "c5832132b2df45b8054458ee828387875cb39fc69adb4df4188de69f0c0d64fd"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/references/layered-output.md",
+    "bytes": 1183,
+    "sha256": "dc118cb92eed411041df40d4c164f3d52ff90a7c69d4d5bcffebef1418f684e4"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/references/sutai-registration-compositing.md",
+    "bytes": 4925,
+    "sha256": "249d25d8c4f362bd67f26354a447407f9916ed944fa24b88c985884b9b56d117"
+  },
+  {
+    "path": "skills/rendering-polish-baobhan-sith/references/visual-control.md",
+    "bytes": 1916,
+    "sha256": "b4ba456179cc1b5325f2e4b9c16ddf4676df00669b1bc16f6dffab2b7fa45dd4"
+  }
+]

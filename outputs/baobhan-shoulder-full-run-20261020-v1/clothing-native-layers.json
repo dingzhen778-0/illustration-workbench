@@ -1,0 +1,333 @@
+{
+  "activeLayer": 20,
+  "channels": {
+    "alpha": [],
+    "colors": [
+      {
+        "name": "Red",
+        "visible": true
+      },
+      {
+        "name": "Green",
+        "visible": true
+      },
+      {
+        "name": "Blue",
+        "visible": true
+      }
+    ],
+    "composite": "RGB",
+    "compositeVisible": true,
+    "layerMaskView": null,
+    "quickMask": null,
+    "target": {
+      "kind": "composite"
+    }
+  },
+  "depth": 8,
+  "file": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\服装组件_组装检查.psd",
+  "hasSelection": false,
+  "height": 1280,
+  "isolatedLayers": [],
+  "lastAppliedComp": null,
+  "layerComps": [],
+  "layerMaskView": null,
+  "layers": [
+    {
+      "blend": "Normal",
+      "bounds": [
+        40,
+        285,
+        909,
+        928
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 20,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "服装 黑蝴蝶结",
+      "opacity": 1.0,
+      "selected": true,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "269bb42f-1c82-6825-a101-c16b4af25540"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        148,
+        370,
+        704,
+        834
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 18,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "服装 灰领巾",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "f37af98b-9dad-7c12-afd1-7aa4bf4431fe"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        53,
+        987,
+        1227
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 16,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "服装 白褶襟",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "62cb4e27-0df7-1974-71ad-02a04a6f789c"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        61,
+        342,
+        902,
+        814
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 14,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "服装 白颈褶红束带",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "e1ed6741-8941-e5d7-d1b6-ad7031bb0db7"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        15,
+        51,
+        988,
+        1213
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 12,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "服装 黑金立领",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "efe61329-9d9f-ed2b-be23-e23c500e14ba"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        16,
+        1023,
+        1264
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 10,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "服装 红黑衣身",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "acaeb682-e3b5-51cf-6dc2-5532653958e4"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        1,
+        51,
+        1023,
+        1229
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 8,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "服装 近袖",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "1e995714-27a2-bdc3-bae8-f8dcafd14ef3"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        1,
+        51,
+        1023,
+        1229
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 6,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "服装 远袖",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "517d3318-f4e5-1c9a-d043-620a64c0bcd9"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        65,
+        1024,
+        1215
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": true,
+      "hasVectorMask": false,
+      "id": 4,
+      "kind": "Smart Object",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "01 完整人体原素体_无发无衣_冻结",
+      "opacity": 1.0,
+      "selected": false,
+      "smartFilters": [],
+      "smartFiltersEnabled": true,
+      "smartSource": {
+        "kind": "linked",
+        "path": "7db0f9c8-601d-4316-accf-3e241177eb75"
+      },
+      "vectorMaskEnabled": null,
+      "visible": true
+    },
+    {
+      "blend": "Normal",
+      "bounds": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "clipped": false,
+      "fill": 1.0,
+      "hasMask": false,
+      "hasVectorMask": false,
+      "id": 2,
+      "kind": "Pixel",
+      "labelColor": "none",
+      "linkGroup": null,
+      "name": "Layer 1",
+      "opacity": 1.0,
+      "selected": false,
+      "vectorMaskEnabled": null,
+      "visible": true
+    }
+  ],
+  "measurement": {
+    "count": 0,
+    "countGroups": 0,
+    "ruler": null,
+    "scale": "1 pixels = 1.0000 pixels"
+  },
+  "mode": "Rgb",
+  "name": "服装组件_组装检查.psd",
+  "notes": [],
+  "path": "${PROJECT_ROOT}\\outputs\\baobhan-shoulder-full-run-20261020-v1\\服装组件_组装检查.psd",
+  "quickMask": false,
+  "resolution": 72.0,
+  "selectedLayers": [
+    20
+  ],
+  "selectionBounds": null,
+  "snapshots": [],
+  "symmetry": null,
+  "timeline": null,
+  "variables": null,
+  "warnings": [],
+  "width": 1024
+}
